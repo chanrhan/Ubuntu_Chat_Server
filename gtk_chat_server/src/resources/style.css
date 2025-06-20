@@ -1,0 +1,126 @@
+.container{
+    background: rgb(124, 124, 124);
+}
+
+.container .login_page{
+    background-color: rgb(215, 248, 255);
+
+}
+
+.login_page .body{
+    background-color: rgb(215, 255, 227);
+}
+
+.login_page .body .main_cont{
+    background-color: rgb(255, 255, 255);
+}
+
+.login_page .body .main_cont .title_box .title_text{
+    font-size: 48px;
+}
+
+.container .service_page{
+    background-color: rgb(215, 215, 215);
+}
+
+/* Service Page */
+
+.service_page .header{
+    background-color: rgb(237, 255, 158);
+}
+
+.service_page .siderbar{
+    background-color: rgb(158, 186, 255);
+}
+
+.service_page .room_section .room_header .inp_search_room{
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+.service_page .room_section .room_list{
+    background-color: rgb(220, 220, 220);
+}
+
+.service_page .room_section .room_list .room_item{
+    background-color: rgb(213, 219, 126);
+
+}
+
+.service_page .chat_section .chat_cont .room_name_box{
+    background-color: rgb(217, 217, 217);
+    font-weight: 600;
+}
+
+.service_page .chat_section .chat_cont .chat_notice{
+    background-color: rgb(243, 243, 243);
+}
+
+.service_page .chat_section .chat_list{
+    background-color: #AFBFCF;
+}
+
+.md_add_room .user_list_box .user_item{
+    background-color: rgb(83, 83, 83);
+}
+
+.md_add_room .user_list_box .user_item .text{
+    color: white;
+}
+
+.chat_line{
+    /* background-color: red; */
+}
+
+.reply_box{
+    background-color: #AFBFCF;
+}
+
+.reply_box.reply_mode{
+    background-color: white;
+}
+
+.chat_item{
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.chat_item_self{
+    background-color: #F9E64D;
+    border-radius: 8px;
+}
+
+.chat_reply_box{
+    background-color: #ffee6d;
+    border-radius: 12px;
+}
+
+.reply_user_id{
+    color: blue;
+}
+
+.react_box{
+    background-color: #8e9ba8;
+    border-radius: 12px;
+}
+
+.time_text{
+    font-size: 14px;
+}
+
+.chat_event_box.react .react_box{
+    opacity: 1;
+    background-color: white;
+}
+
+.non_read_count{
+    font-size: 12px;
+    color: #F9E64D;
+}
+
+.updated_chat_count{
+    background-color: red;
+    color: white;
+    border-radius: 18px;
+    font-size: 12px;
+}
